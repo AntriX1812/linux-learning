@@ -1,0 +1,6 @@
+For any user there exist a separate home directory.
+If the user is x then
+/home/x.
+Here / is root
+home is home dir
+and x is user
